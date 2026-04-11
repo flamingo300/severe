@@ -1,6 +1,7 @@
 {
   "Versions": {
-      "Roblox": "version-6776addb8fbc4d17",
-      "Software": "v2"
+      "Roblox": "version-26c90be22e0d4758",
+      "Software": "v2",
+      "Changelog": "desync updated and auth certificate"
     }
 }
